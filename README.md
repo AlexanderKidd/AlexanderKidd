@@ -7,7 +7,7 @@
 - 🕑 Other projects:
   - <a href="https://play.google.com/store/apps/dev?id=7190442441456634365" target="_blank">Bit Dreams (Android Apps)</a>
   - <a href="https://wayconnect-landscapes.herokuapp.com/" target="_blank">WayConnect</a>
-  - <a href="alexander-kidd.com" target="_blank">Personal Site</a>
+  - <a href="https://www.alexander-kidd.com" target="_blank">Personal Site</a>
 
 <!---
 AlexanderKidd/AlexanderKidd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
