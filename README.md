@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderKidd
 - 👀 I’m interested in ... Just about everything! But web apps 🌐 and machine learning 🤖 are my current 🔥 topics.
-- 🌱 Currently learning ... C++ and React (and associated web tech)
+- 🌱 Currently learning ... Other JS web frameworks akin to React or built on top of it like NextJS. Also LLMs for machine learning.
 - 🧱 Currently working on ... <a href="https://github.com/AlexanderKidd/FactoidL" target="_blank">FactoidL</a> ✅, an open-source automated fact-checker and various other projects to be revealed.
 - 📫 How to reach me ... For business-y messages use debatical (at) gmail or <a href="https://www.linkedin.com/in/alexander-kidd-5baa30109" target="_blank">LinkedIn</a>. Otherwise project-specific emails.
 
